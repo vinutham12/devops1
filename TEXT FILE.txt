@@ -1,0 +1,13 @@
+pip list
+
+!pip install tensorflow --user
+
+!pip install numpy==1.22.1
+
+!pip install gensim --user
+
+import nltk
+
+nltk.download('punkt')
+
+
